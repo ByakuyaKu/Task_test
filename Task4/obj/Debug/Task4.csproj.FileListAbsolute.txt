@@ -1,0 +1,10 @@
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\obj\Debug\Task4.Form1.resources
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\Aspire R5-571PG\source\repos\EPAM\Task4\Task4\obj\Debug\Task4.pdb
